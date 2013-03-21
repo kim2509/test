@@ -1,3 +1,7 @@
 'test2' 
 
+<<<<<<< HEAD
 이건 두번째 라인.
+=======
+This line is added.
+>>>>>>> e14ce2eaf366e31ba7cec6972189e4027cb61d9f
